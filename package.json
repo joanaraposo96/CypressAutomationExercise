@@ -1,0 +1,15 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cyopen": "cypress open",
+    "cyrun": "cypress run"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "^15.12.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
